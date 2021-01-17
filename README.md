@@ -1,37 +1,17 @@
-## Neebyo
+# Supported Projects in 2021
+Coming Soon!
 
-You can use the [editor on GitHub](https://github.com/juwatow/neebyo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Supported Projects in 2020
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Training Center for Malagasy Tourism Workforce
+December 2020 - We raised CAD $5000 to contribute to the renovation of the school [GROUPE SCOLAIRE Marie Reine RWAZA](https://mariereinerwaza.rw/)
 
-### Markdown
+## Training Center for Malagasy Tourism Workforce
+September 17, 2020 - We raised CAD $75 to contribute to the construction of a training center for ignored labor pools: chronically unemployed, lost parents, LGBT, recovering addicts, to address staff shortage serving Malagasy tourism industry. Project by [HALT POVERTY](https://www.mg-haltpoverty.org/)
+Details: https://www.globalgiving.org/projects/help-finish-anay-center/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Supported Projects in 2019
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juwatow/neebyo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Training Center for Malagasy Tourism Workforce
+June 21, 2019 - We raised CAD $340 to contribute to the construction of a training center for ignored labor pools: chronically unemployed, lost parents, LGBT, recovering addicts, to address staff shortage serving Malagasy tourism industry. Project by [HALT POVERTY](https://www.mg-haltpoverty.org/)
+Details: https://www.globalgiving.org/projects/help-finish-anay-center/
